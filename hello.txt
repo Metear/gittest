@@ -1,4 +1,7 @@
 printf("Hello Word!");
 print("老板是神经病");
 
-print("helo");
+print("helo")
+
+我是一个好人
+
